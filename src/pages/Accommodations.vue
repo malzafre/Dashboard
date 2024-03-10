@@ -1,5 +1,5 @@
 <script setup>
-import AccommodationLayout from '../layouts/AccommodationLayout.vue';
+import AccommodationLayout from '../components/Members/AccommodationLayout.vue';
 </script>
 
 <template>

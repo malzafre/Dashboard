@@ -1,5 +1,5 @@
 <template>
-    <v-container style="padding: 10px 20px;">
+    <v-container style="padding: 10px 0;">
         <v-dashboard-title>
             <hr class="title-line-left">
             <h1>Dashboard</h1>

@@ -7,33 +7,26 @@
                         200,000.00</h1>
                     <h3 class="title">Total Fees</h3>
                 </v-card>
-
             </v-col>
 
             <v-col cols="2.5">
                 <v-card class="card" link to="/members">
                     <h1 class="fee-amount">80</h1>
-
                     <h3 class="title">Active Members</h3>
-
                 </v-card>
             </v-col >
 
             <v-col cols="2.5">
                 <v-card class="card" link to="/accommodations">
                     <h1 class="fee-amount">160</h1>
-
                     <h3 class="title">Accommodations</h3>
-
                 </v-card>
             </v-col>
 
             <v-col cols="2.5">
                 <v-card class="card" link to="/applicants">
                     <h1 class="fee-amount">10</h1>
-
                     <h3 class="title">Pending application</h3>
-
                 </v-card>
             </v-col>
         </v-row>
