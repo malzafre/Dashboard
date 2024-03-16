@@ -5,6 +5,7 @@
             <h1>Applicants</h1>
             <hr class="title-line-right">
         </v-dashboard-title>
+        <Applicants />
     </v-container>
 </template>
 

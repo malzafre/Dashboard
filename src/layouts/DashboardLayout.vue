@@ -22,7 +22,7 @@
                     <v-container style="padding: 20px 0 20px 10px;">
                         <h2>New Applicants</h2>
                     </v-container>
-                    <Applicants />
+                    <ApplicantsDashboard />
                 </v-col>
             </v-row>
         </v-container>
